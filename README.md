@@ -1,7 +1,6 @@
-
+<p align="center">
 <pre style="text-align:center;" class="fig">
  
-
                                                                                               ,---.-,                      ,----,            
                                                                                             '   ,'  '.                  .'   .`|       ,--, 
                                                                                            '   ,'  '.                  .'   .`|       ,--, 
@@ -19,9 +18,9 @@
                                                                                 \   \ .'   |   :      /    '---'  `---'               '  ,/    
                                                                                  `---`      \   \   .'                                '--' 
                                                                                              `---`-'          
-
-                  
+             
  </pre>
+</p>
 <p align="center">
   <a href="https://github.com/N0b1ta?tab=followers">
     <img src="https://img.shields.io/github/followers/N0b1ta?label=Followers&logo=GitHub&style=for-the-badge&color=yellow" alt="GitHub badge" />
